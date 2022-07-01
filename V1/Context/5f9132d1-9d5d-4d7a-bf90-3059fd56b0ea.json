@@ -1,0 +1,7 @@
+{
+    "type": "configuration",
+    "context": "5f9132d1-9d5d-4d7a-bf90-3059fd56b0ea",
+    "description": "config file for espace lab",
+    "version": "V1.0",
+    "contextPayloadToField": "{\"www.espace-lab.online\":{\"dataLocations\":{\"#AddPatient_Prenom\":[\"form\",\"firstname\"],\"#AddPatient_Nom\":[\"form\",\"lastname\"],\"#AddPatient_DateNais\":[\"form\",\"birthdate\"],\"#AddPatient_Tel\":[\"form\",\"mobile\"],\"#AddPatient_Adresse\":[\"form\",\"address1\"],\"#AddPatient_NPA\":[\"form\",\"postcode\"],\"#AddPatient_Ville\":[\"form\",\"city\"],\"#AddPatient_Pays\":[\"form\",\"country\"],\"#SexeM\":[\"form\",\"sex\"],\"#SexeF\":[\"form\",\"sex\"],\"#SexeO\":[\"form\",\"sex\"]]},\"dataTransforms\":{\"#SexeM\":{\"male\":true,\"female\":false,\"other\":false},\"#SexeF\":{\"male\":false,\"female\":true,\"other\":false},\"#SexeO\":{\"male\":false,\"female\":false,\"other\":true}\"}}}"
+}
