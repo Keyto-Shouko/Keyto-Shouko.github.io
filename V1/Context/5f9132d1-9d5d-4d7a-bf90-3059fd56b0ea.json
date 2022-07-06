@@ -4,7 +4,7 @@
     "description": "config file for espace lab",
     "version": "V1.0",
     "contextPayloadToField": {
-        "www.espace-lab.online": {
+        "espace-lab.online": {
             "dataLocations": {
                 "#AddPatient_Prenom": ["form", "firstname"],
                 "#AddPatient_Nom": ["form", "lastname"],
